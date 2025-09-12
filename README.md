@@ -4,4 +4,4 @@
 
 - Ankita Biswas (https://github.com/Anny-tech)
 - Collin Kovacs (https://github.com/ckovacs2)
-- [Collaborator Two](https://github.com/collaborator2)
+- Huanhuan Zhao(https://github.com/HuanhuanZhao08)
