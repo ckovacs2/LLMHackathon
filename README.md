@@ -4,6 +4,7 @@
 ## Authors
 
 - Ankita Biswas (https://github.com/Anny-tech)
+- Suvo Banik (https://github.com/sbanik2)
 - Collin Kovacs (https://github.com/ckovacs2)
 - Huanhuan Zhao(https://github.com/HuanhuanZhao08)
 
