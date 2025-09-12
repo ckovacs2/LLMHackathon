@@ -3,5 +3,5 @@
 ## Authors
 
 - Ankita Biswas (https://github.com/Anny-tech)
-- [Collaborator One](https://github.com/collaborator1)
+- Collin Kovacs (https://github.com/ckovacs2)
 - [Collaborator Two](https://github.com/collaborator2)
