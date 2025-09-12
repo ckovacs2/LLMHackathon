@@ -7,8 +7,6 @@
 - Collin Kovacs (https://github.com/ckovacs2)
 - Huanhuan Zhao(https://github.com/HuanhuanZhao08)
 
-- # QSPHAgent (Qualitative Structure-to-Property Hypothesis)
-
 ## 📌 Project Statement
 For a given structure, the agent will generate a hypothesis explaining how certain structural features contribute to the specific characteristics of the material’s density of states (DOS).
 
